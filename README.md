@@ -16,6 +16,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brandontran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brandontran" /></a></p><br><br>
+<p>
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=umd4cexmq7m5mkth5yn27n093&count=5)
+</p>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=umd4cexmq7m5mkth5yn27n093&count=5)
 
