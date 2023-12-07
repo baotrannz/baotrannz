@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.uhdpaper.com/2023/11/sunset-synthwave-sports-car-4k-2161n.html">
+<img align="right" alt="Coding" width="400" src="[https://www.uhdpaper.com/2023/11/sunset-synthwave-sports-car-4k-2161n.html](https://image-1.uhdpaper.com/wallpaper/sunset-synthwave-sports-car-city-palm-trees-digital-art-hd-wallpaper-uhdpaper.com-216@1@n.jpg)">
 
 <h1 align="center">Hi 👋, I'm Bảo</h1>
 <h3 align="center">A new developer from Viet Nam 🇻🇳</h3>
@@ -17,4 +17,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brandontran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brandontran" /></a></p><br><br>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=umd4cexmq7m5mkth5yn27n093&count={5})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=5)
