@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bảo</h1>
 <h3 align="center">A new developer from Viet Nam 🇻🇳</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Unity**
 
 - 📫 How to reach me **brandontran122@gmail.com**
 
